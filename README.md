@@ -32,7 +32,7 @@ Pure HTML, CSS and JS
 
 
 ### What I learned
-This was another great, for me surprisingly the toughest part was not making the UI but rather the modal gallery, however I came accross this video from WebDevSimplified: https://www.youtube.com/watch?v=ywtkJkxJsdg&t=543s Who made an excellent point on how to use HTML dialog feature to create a modal window (or layer), and with that I was able to take control of my design of this challenge and complete it within a day.. not a big trophy ik but I'm proud of that :>.
+This was another great challenge, for me surprisingly the toughest part was not making the UI but rather the modal gallery, however I came accross this video from WebDevSimplified: https://www.youtube.com/watch?v=ywtkJkxJsdg&t=543s Who made an excellent point on how to use HTML dialog feature to create a modal window (or layer), and with that I was able to take control of my design of this challenge and complete it within a day.. not a big trophy ik but I'm proud of that :>.
 
 ### Continued development
 Now the rest is just responsive design for mobile devices, this can be done by adjusting some elements with or without media queries and also adjusting relative units, I'll try to update this in the future as its not my current priority. Also some of the thumbnails dont update themselves among the modal layer and original layer.
