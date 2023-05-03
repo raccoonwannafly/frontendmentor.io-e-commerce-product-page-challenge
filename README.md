@@ -36,6 +36,7 @@ This was another great, for me surprisingly the toughest part was not making the
 
 ### Continued development
 Now the rest is just responsive design for mobile devices, this can be done by adjusting some elements with or without media queries and also adjusting relative units, I'll try to update this in the future as its not my current priority. Also some of the thumbnails dont update themselves among the modal layer and original layer.
+Also the images loading kinda slow, maybe I should start using script defer instead of putting them all within index.html. Any feedback'd be appreciated ^^
 
 
 ### Useful resources
