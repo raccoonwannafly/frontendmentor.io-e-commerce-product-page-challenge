@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/ecommerce-landing-page-with-pure-html-css-js-OemLzCrFAP)
 - Live Site URL: [My netlify hosted site, its free so the domain name is kinda crappy](https://main--bejewelled-bonbon-7645aa.netlify.app/)
 
 ## My process
