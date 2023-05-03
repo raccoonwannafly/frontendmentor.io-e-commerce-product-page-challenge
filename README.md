@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My netlify hosted site, its free so the domain name is kinda crappy](https://main--bejewelled-bonbon-7645aa.netlify.app/)
 
 ## My process
 
